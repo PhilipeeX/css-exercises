@@ -1,0 +1,15 @@
+.clique-em-mim {
+    color: #FFFFFF;
+    background-color: #000000;
+    border: solid 1px;
+}
+
+.clique-dois {
+    background-color: #ffee00;
+}
+
+.clique-em-mim, .clique-dois {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
