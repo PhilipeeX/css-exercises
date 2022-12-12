@@ -1,0 +1,19 @@
+.impares {
+    background-color: rgb(255, 188, 229);
+    font-family: Verdana, "Dejavu sans", 'sans-serif';
+}
+
+.impares.numero3 {
+    font-size: 24px;
+}
+
+#numero2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#quartonumero {
+    background-color: rgb(160, 250, 135);
+    font-size: 24px;
+    font-weight: bold;
+}
